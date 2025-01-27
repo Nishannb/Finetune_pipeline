@@ -9,3 +9,7 @@ Also have code for test inference with 2 sample prompt, the dataset is not large
 
 
 Main.py is the only file for this project. Run python3 main.py to start training the model. 
+
+Pipeline: 
+Sample Prompts ------> Groq api & collect response 
+collected response dataset -------> train
